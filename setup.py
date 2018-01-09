@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='jupyter_c_kernel',
-      version='1.2.4',
+      version='1.2.8',
       description='Minimalistic C kernel for Jupyter',
       author='Brendan Rius',
       author_email='ping@brendan-rius.com',
